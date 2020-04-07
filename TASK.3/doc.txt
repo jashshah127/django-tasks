@@ -1,0 +1,1 @@
+To generate a PDF document with any written content dynamically : using Django and Reportlab
