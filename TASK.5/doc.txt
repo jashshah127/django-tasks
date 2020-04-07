@@ -1,0 +1,1 @@
+The contents of TASK.4 (the table), now, integrating Reportlab with Django and dynamically generating the PDF, when URL parameters are put in
