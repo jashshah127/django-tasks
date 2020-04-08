@@ -1,0 +1,4 @@
+Using URL parameters, displaying two PDFs with the same content.
+In URL:
+1.some_view:: PDF generated in Landscape Mode
+2.orientation:: PDF generated in Potrait Mode
