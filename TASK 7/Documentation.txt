@@ -1,0 +1,7 @@
+Using integers in URL parameters, to generate a PDF in Landscape and/or Potrait view, where:
+- Orient 00 would generate a Potrait View
+- Orient 01 would generate a Landscape View
+
+for the generated PDF
+
+Used Reportlab and Django 
