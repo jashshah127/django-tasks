@@ -1,0 +1,1 @@
+To generate a PDF with content and borders. Using Reportlab + Django
